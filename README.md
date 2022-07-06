@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Fly Buy is an e-commerce app made using api live data.
 
 A few resources to get you started if this is your first Flutter project:
 
